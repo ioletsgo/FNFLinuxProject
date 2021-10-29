@@ -20,9 +20,6 @@ and you need a little bit of demonstration on how you can make the mod accessibl
 - Q: This seems a little bit hard to follow, is there an easier solution?
 - A: Sure there is. If you find it difficult to grasp all of the instructions, Please contact me. I would be willing to help you make a working finished product that runs smoothly on Linux. My [Twitter DMs](https://twitter.com/ioIetsgo) are always open to help.
 
-- Q: My mod has an unofficial linux port, and I want it taken down / removed from this repo.
-- A: I intend on using this github repo to post unofficial Linux ports of popular FNF mods, with notes of what works and what doesn't (if there are any issues). If you have issues with your mod being available, or public, you can send me a [DM on Twitter](https://twitter.com/ioIetsgo) and I will be happy to help.
-
 # Requirements
 The requirements varies from Windows to Linux. I'm gonna go over the more commonly used operating system, primarily because it's more complicated and that's what most FNF developers use.
 ## Windows
