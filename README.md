@@ -11,6 +11,7 @@ and you need a little bit of demonstration on how you can make the mod accessibl
 # FAQ & Troubleshooting
 - Q: I tried compiling to Linux on Windows, but the executable reads as a Microsoft/Windows executable on [ROM Properties](https://github.com/GerbilSoft/rom-properties) 
 - A: A common issue that arises first from attempting to make a Linux port of a FNF mod through source code is that Lime compiles and creates a Windows executable in the wake of a Unix-compatible executable.
+
 ![image](https://user-images.githubusercontent.com/36903453/139360813-18f93334-a7b2-4fe9-b4c7-098439b9899c.png)
 
 # Requirements
