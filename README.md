@@ -19,7 +19,7 @@ The requirements varies from Windows to Linux. I'm gonna go over the more common
 ## Windows
 - Your Friday Night Funin Mod Source Code
 - The Haxe libraries and dependencies for the source code to compile ([Base FNF](https://github.com/ninjamuffin99/Funkin), [Kade Engine](https://github.com/KadeDev/Kade-Engine/blob/stable/docs/building.md), [PsychEngine](https://github.com/ShadowMario/FNF-PsychEngine))
-- [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install) or Linux distro of your choosing (**WSL 2.0 RECOMMENDED**)
+- [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install) or a Linux distro running in a [Virtual Machine](https://www.virtualbox.org/) of your choosing (**WSL 2.0 RECOMMENDED**)
 - A lot of time and patience.
 ## Linux
 - Your Friday Night Funkin Mod Source Code
