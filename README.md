@@ -33,4 +33,5 @@ Primarily speaking for Windows, it requires a little bit more to make a linux po
 - - `dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart` (Enables virtual machines, a necessary requirement of WSL 2.0, you have to reboot after installing it)
 - - [Install the WSL2 Linux kernel update package for x64 machines and ARM64 from the Official Microsoft Website](https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package)
 - Set WSL 2.0 as the default version, by using the command `wsl --set-default-version 2`
-- Install your favorite distro from the [Microsoft Website](https://docs.microsoft.com/en-us/windows/wsl/install-manual#downloading-distributions) or install them via commandline by searching for them via `wsl -l -o` and installing them via `wsl --install -d <Distribution Name>`.
+- Install your favorite distro from the [Microsoft Website](https://docs.microsoft.com/en-us/windows/wsl/install-manual#downloading-distributions) or install them via commandline by searching for them via `wsl -l -o` and installing them via `wsl --install -d <Distribution Name>`. 
+- The default distribution is Ubuntu, but you can select from many several popular linux distros, like OpenSUSE, Manjaro, and Kali-Linux, just to name a few.
