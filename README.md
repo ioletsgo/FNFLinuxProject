@@ -18,7 +18,7 @@ and you need a little bit of demonstration on how you can make the mod accessibl
 - A: This isn't an issue with the compiled linux port, moreorless an issue with Windows. The default audio system that Linux uses is called PulseAudio, with Pipewire being an alternative. There isn't currently a solution to translate PulseAudio/Pipewire audio calls to the default Windows Audio Drivers, (not with a lot of tampering with your base system). The only thing that you should be worried about are constant crashes and graphical errors.
 
 - Q: This seems a little bit hard to follow, is there an easier solution?
-- A: Sure there is. If you find it difficult to grasp all of the instructions, Please contact me. I would be willing to help you make a working finished product that runs smoothly on Linux.
+- A: Sure there is. If you find it difficult to grasp all of the instructions, Please contact me. I would be willing to help you make a working finished product that runs smoothly on Linux. My [twitter DMs](https://twitter.com/ioIetsgo) are always open to help.
 
 # Requirements
 The requirements varies from Windows to Linux. I'm gonna go over the more commonly used operating system, primarily because it's more complicated and that's what most FNF developers use.
