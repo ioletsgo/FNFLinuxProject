@@ -7,7 +7,7 @@ and you need a little bit of demonstration on how you can make the mod accessibl
 - Latency issues can arrise from various different mods, if not coded properly or with a compatibility layer or input delay in general in mind.
 - It just might not even work. Sometimes a piece of software, especially a fanmade mod with a lack of care or attention to the code can cause a piece of software to error out on attempting to run it.
 - It's just good practice. To enable as many people to have the best experience, you also want to make sure that they feel acknowledged and appreciated.
-- Loading Times could be terrible, and i mean god awful using Wine. I'm saying like, 15 seconds minimum just to load a singular song. While this may be caused primarily by shotty or unreliable code, and resource management, having to run a mod through a compatibility layer doesn't fix those issues, but only makes them worse.
+- Loading Times could be terrible, and i mean god awful using Wine. I'm saying like, 10 seconds minimum just to load a singular song, especially if you're loading any new assets like characters. While this may be caused primarily by shotty or unreliable code, and resource management, having to run a mod through a compatibility layer doesn't fix those issues, but only makes them worse.
 
 # FAQ & Troubleshooting
 - Q: I tried compiling to Linux on Windows, but the executable reads as a Microsoft/Windows executable on [ROM Properties](https://github.com/GerbilSoft/rom-properties) 
